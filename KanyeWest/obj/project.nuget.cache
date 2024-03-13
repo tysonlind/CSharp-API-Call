@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "v0hB/KGJefWHvvF2mcQxtXYpRo+w5ed1t8y4HIdttaKqdyxhC1wTC0eIcJimCyP/bew0KXNYDt6idoK2DaQCTQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tyson\\repos\\C# and DotNET\\KanyeWest\\KanyeWest\\KanyeWest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tyson\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

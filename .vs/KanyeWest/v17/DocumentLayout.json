@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tyson\\repos\\C# and DotNET\\KanyeWest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5773D15D-9455-4242-9F43-86B193A4B6F0}|KanyeWest\\KanyeWest.csproj|c:\\users\\tyson\\repos\\c# and dotnet\\kanyewest\\kanyewest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5773D15D-9455-4242-9F43-86B193A4B6F0}|KanyeWest\\KanyeWest.csproj|solutionrelative:kanyewest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tyson\\repos\\C# and DotNET\\KanyeWest\\KanyeWest\\Program.cs",
+              "RelativeDocumentMoniker": "KanyeWest\\Program.cs",
+              "ToolTip": "C:\\Users\\tyson\\repos\\C# and DotNET\\KanyeWest\\KanyeWest\\Program.cs",
+              "RelativeToolTip": "KanyeWest\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T00:56:21.494Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
